@@ -6,5 +6,5 @@ Files in Deep Learning is for deep learning.
 Data provides the data we filtered.
 
 ## Group member:
-Renjie Wu 516021910682\n
-Xinyi Yu 516030910278\n
+Renjie Wu 516021910682
+Xinyi Yu 516030910278
